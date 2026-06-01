@@ -20,7 +20,6 @@ regulated industries.
 
 - Oracle security knowledge base & blog — https://www.oradba.ch
 - Oracle ACE profile — https://ace.oracle.com/ords/ace/profile/soehrl777
-- Speaking (Sessionize) — https://sessionize.com/stefanoehrli
 - LinkedIn — https://www.linkedin.com/in/stefanoehrli
 
 Co-author of the security chapter in *Der Oracle DBA* (Hanser, 2016). Speaker at DOAG
